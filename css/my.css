@@ -1,0 +1,15 @@
+body * {
+  font-family: "Montserrat", "Pretendard" sans-serif;
+  font-weight: 400;
+}
+body h1, body h2, body h3, body h4, body p, body ul, body li, body a, body span, body dl, body dt, body dd {
+  margin: 0;
+  padding: 0;
+}
+body a {
+  text-decoration: none;
+  color: #cc1f1f;
+}
+body li {
+  list-style: none;
+}

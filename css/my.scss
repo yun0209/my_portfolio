@@ -1,0 +1,23 @@
+$activeColor : #cc1f1f;
+$activeDeep : #333131;
+
+
+body{
+    *{
+        font-family: "Montserrat","Pretendard" sans-serif;
+        font-weight: 400;
+    }
+    h1,h2,h3,h4,p,ul,li,a,span,dl,dt,dd{
+        margin: 0;
+        padding: 0;
+    }
+    a{
+        text-decoration: none;
+        color: $activeColor ;
+    }
+    li{
+        list-style: none;
+    }
+}
+
+
